@@ -9,7 +9,7 @@
 
 
 ## Common Acquisition Platform
-* 
+* [David Larrimore](https://github.com/davidlarrimore)
 * 
 
 ## Digital Analytics Program 
@@ -29,7 +29,7 @@
 * Ammie Farraj-Feijoo
 
 ## Federal Acquisition Service 
-* 
+* [David Larrimore](https://github.com/davidlarrimore)
 
 ## SAM.gov 
 * Navin Vembar 
