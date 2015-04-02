@@ -1,2 +1,8 @@
-# GitHub-Administration
-GSA's administration and implementation of GitHub.com/GitHub
+
+## To Do 
+* Standards for Private Repos 
+* Organization Administration 
+* Team Creation 
+* Requesting Access
+* GSA Standards 
+* FAQ 
