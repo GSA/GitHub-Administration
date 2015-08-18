@@ -14,3 +14,5 @@
 * [Have a user-friendly description](https://pages.18f.gov/open-source-guide/writing-the-repo-description/)
 * [Have a useful README.md](https://pages.18f.gov/open-source-guide/making-readmes-readable/)
 
+### Each team in the GSA organization should
+* Have a team description
