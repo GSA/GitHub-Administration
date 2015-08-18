@@ -14,5 +14,15 @@
 * [Have a user-friendly description](https://pages.18f.gov/open-source-guide/writing-the-repo-description/)
 * [Have a useful README.md](https://pages.18f.gov/open-source-guide/making-readmes-readable/)
 
-### Each team in the GSA organization should
-* Have a team description
+
+## Workflows 
+
+### [Creating a GitHub account](https://github.com/fisma-ready/github#creating-and-customizing-an-account)
+
+### Requesting access to the GSA organization
+
+1. Ensure that you have created a GitHub account that matches the standards above.  
+2. Email `joseph.castle@gsa.gov` with your Github username
+3. Include which team you are a part of.  
+4. You will receive a notification when you've been given access.  
+
