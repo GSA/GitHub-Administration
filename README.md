@@ -28,9 +28,9 @@
 
 #### Creating new private repositories
 
+#### Creating new public repositories
+
 #### Managing teams 
-
-
 
 ## Organize Agency Users
 
