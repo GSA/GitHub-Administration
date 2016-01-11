@@ -7,8 +7,6 @@ The GSA GitHub organization is managed by creating and granting access to [teams
 
 ### data.gov 
 * Phil Ashlock
-* Rebecca Williams
-
 
 ### 18F 
 * Gray Brooks
@@ -16,22 +14,19 @@ The GSA GitHub organization is managed by creating and granting access to [teams
 
 ### Common Acquisition Platform
 * [David Larrimore](https://github.com/davidlarrimore)
-* 
 
 ### Digital Analytics Program 
-* Marina Fox
 * Tim Lowden
 
 ### Digital Innovation and Strategy
 * Joe Castle
-* Myesha Boone
+* Cindy Smith
 
 
 ### Digital Services Innovation Center
 * 
-* 
 
-### DigitalGov Search
+### DigitalGov Search (a.k.a. USASearch)
 * Ammie Farraj-Feijoo
 
 ### Federal Acquisition Service 
