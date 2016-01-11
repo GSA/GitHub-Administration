@@ -16,6 +16,11 @@
 
 #### Standards for making a private repo:  
 
+By default, projects in GitHub.com/GSA should be public.  They should only be made privte under certain circumstances.  
+
+* A repository can be made private if it containts information that legally cannot be made public.  
+* ...
+* ...
 
 ## Workflows 
 
