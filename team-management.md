@@ -33,10 +33,10 @@ The GSA GitHub organization is managed by creating and granting access to [teams
 * Kaitlin Devine
 
 ### Data.gov Admin
-* boberlas, mwlau, Philip Ashlock 
+* boberlas / mwlau / Philip Ashlock 
 
 ### Data.gov coders
-* boberlas, mwlau, Philip Ashlock
+* boberlas / mwlau / Philip Ashlock
 
 ### Data.gov Deploy
 * Noah Kunin / Philip Ashlock
@@ -129,7 +129,7 @@ The GSA GitHub organization is managed by creating and granting access to [teams
 * Ed-at-GSA
 
 ### SAM Admins
-*Kaitlin Devine
+* Kaitlin Devine
 
 ### Sites.USA.gov Admin
 * No Owner Listed
@@ -142,5 +142,4 @@ The GSA GitHub organization is managed by creating and granting access to [teams
 
 ### USDS
 * No Owner Listed
-
 
