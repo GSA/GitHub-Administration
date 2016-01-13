@@ -14,9 +14,6 @@ The GSA GitHub organization is managed by creating and granting access to [teams
 ### Auctions
 * Kishore Nedurumalli
 
-### Digital Analytics Program 
-* Tim Lowden
-
 ### CAP-CODERS
 * Aidan Feldman / David Larrimore / RobertDonovan
 
