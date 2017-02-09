@@ -35,7 +35,7 @@ By default, projects in GitHub.com/GSA should be public.  They should only be ma
 #### Requesting access to the GSA organization
 
 1. Ensure that you have created a GitHub account that matches the standards above.  
-2. If your group already has a team in the GSA organization, ask your point of contact to email `gerard.chelak@gsa.gov` with your Github username and request that you be given access.  
+2. If your group already has a team in the GSA organization, ask your point of contact to email `gerard.chelak@gsa.gov` with a cc to mike.tanski@gsa.gov and chudi.okafo@gsa.gov with your Github username and request that you be given access.  
 3. If your group does not yet have a team in the GSA organization, email `gerard.chelak@gsa.gov` to coordinate a team be created.  You will need to tell him the usernames of any others who should be added.   
 4. You will receive a notification when you've been given access.  
 
