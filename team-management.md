@@ -71,7 +71,7 @@ The GSA GitHub organization is managed by creating and granting access to [teams
 ### FSSI Coders
 * David Larrimore / RobertDonovanGSA
 
-### Gear
+### GEAR2-NodeJS
 * Chris Campbell
 
 ### General GSA Access
