@@ -64,7 +64,6 @@ The above directions are the same except that at step 4, you will choose Private
 ## Organize Agency Users
 
 * Identify Team Leads
-* Ensure they join the `github-administration` listserve
 * Plan and implement the application of the standards 
 * Ensure everyone has guidance going forward
 
