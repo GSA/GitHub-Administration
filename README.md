@@ -47,7 +47,7 @@ By default, projects in GitHub.com/GSA should be public.  They should only be ma
 4. Change the repo status to `Public` unless it does must be private.  
 5. It is usually convenient to check the box to `Initialize this repository with a README`.  
 6. You will usually not need to worry about adding a `.gitignore`.  
-7. Unless there is a specific reason not to, choose `Creative Commons Zero v1.0 Universal` as the license.  
+7. 8.	Please choose the type of license from the dropdown.  For a description of the license types, see https://help.github.com/articles/licensing-a-repository  
 8. Click Create Repository
 9. If prompted, choose the most appropriate team that you are a member of that should be given permission to the repo.  
 
