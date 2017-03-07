@@ -19,8 +19,6 @@
 By default, projects in GitHub.com/GSA should be public.  They should only be made private under certain circumstances.  
 
 * A repository can be made private if it containts information that legally cannot be made public.  
-* ...
-* ...
 
 ## Workflows 
 
@@ -28,9 +26,10 @@ By default, projects in GitHub.com/GSA should be public.  They should only be ma
 
 1. If you haven't created a GitHub account yet (https://github.com/), do so with your government email, which will assist with [records retention](http://ben.balter.com/open-source-for-government/#records).  
 2. If you already have a GitHub account, simply [add your goverment email to your existing account](https://help.github.com/articles/adding-an-email-address-to-your-github-account/). Do not create a new account. You can also set up custom email routing through the [Notifications Center](https://github.com/settings/notifications). Make sure your commits are [associated with your government email address](https://help.github.com/articles/setting-your-email-in-git).
-3. Note that associating commits with an email address is different from [setting notifications to go to one or another email address](https://help.github.com/articles/configuring-notification-emails-for-organizations/). You also have to change the official commit email address attached to each repo.
-4. If you’re using your work computer for personal projects on GitHub and want your personal email tied to those commits, you can set your GSA email as part of the global `.gitconfig`, then [override on a repository level](http://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) with your personal email. If you have both emails [in your GitHub settings](https://github.com/settings/emails), though, they will both be tied to your GitHub account.
-5. Make sure you have [notifications turned on](https://github.com/settings/notifications) and make sure your notifications are set up they way you'd like them.
+3. Update the `Settings` in your account to match the [GSA Standards](#gsa-standards).
+4. Note that associating commits with an email address is different from [setting notifications to go to one or another email address](https://help.github.com/articles/configuring-notification-emails-for-organizations/). You also have to change the official commit email address attached to each repo.
+5. If you’re using your work computer for personal projects on GitHub and want your personal email tied to those commits, you can set your GSA email as part of the global `.gitconfig`, then [override on a repository level](http://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) with your personal email. If you have both emails [in your GitHub settings](https://github.com/settings/emails), though, they will both be tied to your GitHub account.
+6. Make sure you have [notifications turned on](https://github.com/settings/notifications) and make sure your notifications are set up they way you'd like them.
 
 #### Requesting access to the GSA organization
 
