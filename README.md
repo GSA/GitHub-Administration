@@ -52,11 +52,16 @@ By default, projects in GitHub.com/GSA should be public.  They should only be ma
 
 #### Creating new private repositories
 
-
 ...
 
-
 The above directions are the same except that at step 4, you will choose Private instead of Public.  
+
+#### Removing access to the GSA organization
+
+1. [Team managers](https://github.com/GSA/GitHub-Administration/blob/master/team-management.md#team-points-of-contact) should ensure that they monitor when a member of their GitHub team leaves the project or agency and no longer needs access to the GSA organization.  
+2. At that point, they should email 'gsa-github.support@gsa.gov' with a request to remove the user from the GSA organization. 
+3. Organization admins should reply to the email with confirmation when the removal is complete.  
+4. Team managers may delegate this responsibility but need to ensure that it is in place.  
 
 #### Managing teams 
 
