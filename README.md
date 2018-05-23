@@ -65,7 +65,7 @@ The above directions are the same except that at step 4, you will choose Private
 
 #### Third-party access
 
-If you are requesting Third-party access apps to access GitHub,  the app needs to be in the GSA IT Enterprise Architecture GEAR listing as approved ( https://ea.gsa.gov/#!/itstandards ) and whoever wants to use the app needs to shepherd it through the GEAR process for approval.  Once it is approved in the It Standards, it can most likely be approved in GitHub. 
+If you are requesting third-party access apps to access GitHub,  the app needs to be in the GSA IT Enterprise Architecture GEAR listing as approved ( https://ea.gsa.gov/#!/itstandards ) and whoever wants to use the app needs to shepherd it through the GEAR process for approval.  Once it is approved in the It Standards, it can most likely be approved in GitHub. 
 
 ## Organize Agency Users
 
