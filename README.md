@@ -44,11 +44,17 @@ By default, projects in GitHub.com/GSA should be public.  They should only be ma
 2. When choosing the repo's name, try to pick [a simple and useful name](https://pages.18f.gov/open-source-guide/naming-your-project/)
 3. Include a brief description of the project.  
 4. Change the repo status to `Public` unless it does must be private.  
-5. It is usually convenient to check the box to `Initialize this repository with a README`.  
+-  #### Note: we recommend the following when exposing your repositories to the public:
+      - Conduct a manual code review with your team.  Go line by line through the code and check for sensitive content.
+      - Conduct static code analysis with a scanning tool (if available). SonarQube is approved as a standard. Teams can download it in their local environment and scan/remediate. Hopefully we can recommend other tools in the future.  
+      - Utilize a process to re mediate security vulnerabilities within the code base or the environment.
+      - Make environmental variables private or store them on a server
+5. It is usually convenient to check the box to `Initialize this repository with a README`.
 6. You will usually not need to worry about adding a `.gitignore`.  
 7. Please choose the type of license from the dropdown.  For a description of the license types, see https://help.github.com/articles/licensing-a-repository  
 8. Click Create Repository
 9. If prompted, choose the most appropriate team that you are a member of that should be given permission to the repo.  
+
 
 #### Creating new private repositories
 
