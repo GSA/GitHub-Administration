@@ -43,7 +43,7 @@ By default, projects in GitHub.com/GSA should be public.  They should only be ma
 1. At https://github.com/GSA, Click `+ New Repository`.  
 2. When choosing the repo's name, try to pick [a simple and useful name](https://pages.18f.gov/open-source-guide/naming-your-project/)
 3. Include a brief description of the project.  
-4. Change the repo status to `Public` unless it does must be private.  
+4. Change the repo status to `Public` unless it needs to be private.  
 -  #### Note: we recommend the following when exposing your repositories to the public:
       - Conduct a manual code review with your team.  Go line by line through the code and check for sensitive content.
       - Conduct static code analysis with a scanning tool (if available). SonarQube is approved as a standard. Teams can download it in their local environment and scan/remediate. Hopefully we can recommend other tools in the future.  
