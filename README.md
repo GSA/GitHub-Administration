@@ -35,7 +35,7 @@ You can also find this by opening an email from the desired repo, clicking the �
 Email `gsa-github.support@gsa.gov` the following: 
 “Please add me `<https://github.com/username>` to `<https://github.com/GSA>`”.  Please supply your github username and GSA email address.
  
-Also, to make it easier, please describe any team(s) or repo(s) you will need access to.  The owner or admin of the requested repo or team will need to grant access. An admin will verify compliance and add you, after which you’ll need to accept their invite by going here.
+Also, to make it easier, please describe any team(s) or repo(s) you will need access to.  The owner or admin of the requested repo or team will need to grant access. An admin will verify compliance and add you, after which you’ll need to accept their invite by going [here](https://github.com/GSA).
 
 ## Outside Collaborators:
 Repositories with the GSA org can only be accessed by members in the organization.  If a user needs access to a repository with the organization but is not a GSA employee or a contractor with a GSA email address, they will need to be invited as outside collaborators.
