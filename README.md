@@ -1,11 +1,11 @@
 
-GSA GitHub Enterprise Cloud Reference 
+
+<h1>GSA GitHub Enterprise Cloud Reference</h1>
 Follow this guide when using GitHub
 
  
 
-Created July 29, 2020
-Office of Corporate IT Services
+
 
 
 
