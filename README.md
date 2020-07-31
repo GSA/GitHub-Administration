@@ -107,7 +107,7 @@ that contain your GitHub username or are posted to a repo you’re watching.
 Since on GitHub, each repo is considered to be its own mailing list, checking for the SMTP list-ID identifier is one reliable way to allow these notifications through. For example, if the repo name in GitHub is GSA/reponame, you can create a filter in Gmail with the condition: “has the words” list:(reponame.gsa.GitHub.com) and perform some standard gmail action such as “Apply a label.”
 You can also find this by opening an email from the desired repo, clicking the “more info” arrow in the “To” field, and copying the bracketed address in the “mailing list” field. Adding list:(reponame.GSA.GitHub.com) to your filter’s exceptions will allow any issues posted to that repo to reach your inbox.
 
-<h2 id="join-the-gsa-organization">Join the GSA organization</h1>
+<h2 id="join-the-gsa-organization">Join the GSA organization</h2>
 
 Email `gsa-GitHub.support@gsa.gov` the following: “Please add me `(https://GitHub.com/username)` to `https://GitHub.com/GSA`. Please supply your GitHub username and GSA email address.
  
