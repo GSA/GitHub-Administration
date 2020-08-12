@@ -87,7 +87,7 @@ Also, to make it easier, please describe any team(s) or repo(s) you will need ac
 
 <h2 id="outside-collaborators">Outside Collaborators</h2>
 
-Repositories within the GSA org can only be accessed by members in the organization. If a user needs access to a repository with the organization but is not a GSA employee or a contractor with a GSA email address, they will need to be invited as outside collaborators.
+Repositories within the GSA org can only be accessed by members in the organization. If a user needs access to a repository within the organization but is not a GSA employee or a contractor with a GSA email address, they will need to be invited as outside collaborators.
 
 Only a member of the GSA Admin Team can invite an outside collaborator. Outside collaborators with access to a private repository incur charges (like a paid seat).
 
