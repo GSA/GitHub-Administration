@@ -39,6 +39,8 @@ Follow this guide when using GitHub
 
 [Removing access to the GSA organization](#removing-access-to-the-gsa-organization)
 
+[Reviewing system log and reporting any unusual activity](#reviewing-the-system-log)
+
 [Third-party access](#third-party-access)
 
 [Organizing Agency Users](#organizing-agency-users)
@@ -150,6 +152,9 @@ It is recommended to create teams to manage member’s access to a repository.  
 *	Team managers may delegate this responsibility but need to ensure that it is in place. 
 **If a member leaves GitHub who is the sole owner of the repository,  and the repository is not archived or transferred to someone else, it will be deleted.**
  
+<h2 id="reviewing-the-system-log">Reviewing the system log
+  users are respomnsible for reviewing their log file and reporting any unusual activity to the github admin. You can find guidance on accessing your security log at:  https://docs.github.com/en/github/authenticating-to-github/reviewing-your-security-log. Report any any usual activity to `gsa-GitHub.support@gsa.gov`
+  
 <h2 id="third-party-access">Third-party access</h2>
 
 If you would like to have third-party access applications use GitHub, first you will need to ensure the application is shown as approved in the [GSA IT Enterprise Architecture (GEAR) listing](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/software-and-applications/software-requests-and-software-updates/it-standards). The program office requesting 3rd-party integration is responsible for gaining IT Standards approval in GEAR and any cost for the application being integrated with GitHub.
