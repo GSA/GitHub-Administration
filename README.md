@@ -152,7 +152,7 @@ It is recommended to create teams to manage member’s access to a repository.  
 *	Team managers may delegate this responsibility but need to ensure that it is in place. 
 **If a member leaves GitHub who is the sole owner of the repository,  and the repository is not archived or transferred to someone else, it will be deleted.**
  
-<h2 id="reviewing-the-system-log">Reviewing the system log
+<h2 id="reviewing-the-system-log">Reviewing the system log</h2>
   users are respomnsible for reviewing their log file and reporting any unusual activity to the github admin. You can find guidance on accessing your security log at:  https://docs.github.com/en/github/authenticating-to-github/reviewing-your-security-log. Report any any usual activity to `gsa-GitHub.support@gsa.gov`
   
 <h2 id="third-party-access">Third-party access</h2>
