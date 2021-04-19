@@ -39,7 +39,7 @@ Follow this guide when using GitHub
 
 [Removing access to the GSA organization](#removing-access-to-the-gsa-organization)
 
-[Reviewing system log and reporting any unusual activity](#reviewing-the-system-log)
+[Reviewing the system log and reporting any unusual activity](#reviewing-the-system-log)
 
 [Third-party access](#third-party-access)
 
