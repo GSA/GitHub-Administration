@@ -83,7 +83,7 @@ You can also find this by opening an email from the desired repository, clicking
 
 <h2 id="join-the-gsa-organization">Join the GSA organization</h2>
 
-Email `gsa-gitHub.support@gsa.gov` the following: “Please add me `(https://gitHub.com/username)` to `https://gitHub.com/GSA`. Please supply your GitHub username and GSA email address.
+Email `gsa-github.support@gsa.gov` the following: “Please add me `(https://github.com/username)` to `https://github.com/GSA`. Please supply your GitHub username and GSA email address.
  
 Also, to make it easier, please describe any team(s) or repo(s) you will need access to. The owner or admin of the requested repo or team will need to grant access. An admin will verify compliance and add you, after which you’ll need to accept their invitation.
 
@@ -153,7 +153,7 @@ It is recommended to create teams to manage member’s access to a repository.  
 **If a member leaves GitHub who is the sole owner of the repository,  and the repository is not archived or transferred to someone else, it will be deleted.**
  
 <h2 id="reviewing-the-system-log">Reviewing the system log</h2>
-  Users are respomnsible for reviewing their log file and reporting any unusual activity to the github admins. You can find guidance on accessing your security log at:  https://docs.github.com/en/github/authenticating-to-github/reviewing-your-security-log. Report any any usual activity to `gsa-gitHub.support@gsa.gov`
+  Users are respomnsible for reviewing their log file and reporting any unusual activity to the github admins. You can find guidance on accessing your security log at:  https://docs.github.com/en/github/authenticating-to-github/reviewing-your-security-log. Report any any usual activity to `gsa-github.support@gsa.gov`
   
 <h2 id="third-party-access">Third-party access</h2>
 
