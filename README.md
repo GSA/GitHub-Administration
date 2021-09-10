@@ -52,13 +52,13 @@ GSA’s GitHub Enterprise Cloud provides corporate source code repository servic
 
 <h2 id="joining-the-gsa-enterprise-organization">Joining the GSA Enterprise Organization</h1>
 
-1.	You will need a GitHub account to join the GSA Org.  If you haven't created a GitHub account yet (https://github.com/), do so with your GSA email address.  A GSA email address is required to be a member of the GSA Org.
+1. You will need a GitHub account to join the GSA Org.  If you haven't created a GitHub account yet (https://github.com/), do so with your GSA email address.  A GSA email address is required to be a member of the GSA Org.
 
-2.	If you already have a GitHub account, [simply add your GSA email to your existing account](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/adding-an-email-address-to-your-github-account). Do not create a new account. Make sure your commits are associated with your GSA mail address. 
+2. If you already have a GitHub account, [simply add your GSA email to your existing account](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/adding-an-email-address-to-your-github-account). Do not create a new account. Make sure your commits are associated with your GSA mail address. 
 
-3.	If you have another email specified in your [GitHub settings](https://github.com/settings/emails), they will both be tied to your GitHub account.
+3. If you have another email specified in your [GitHub settings](https://github.com/settings/emails), they will both be tied to your GitHub account.
 
-4.	Make sure you have [notifications turned on](https://github.com/settings/notifications) and make sure your notifications are set up the way you'd like them.
+4. Make sure you have [notifications turned on](https://github.com/settings/notifications) and make sure your notifications are set up the way you'd like them.
 
 <h2 id="complete-your-profile">Complete your profile</h2>
 
@@ -84,7 +84,7 @@ You can also find this by opening an email from the desired repository, clicking
 <h2 id="join-the-gsa-organization">Join the GSA organization</h2>
 
 Email `gsa-github.support@gsa.gov` the following: “Please add me `(https://github.com/username)` to `https://github.com/GSA`. Please supply your GitHub username and GSA email address.
- 
+
 Also, to make it easier, please describe any team(s) or repo(s) you will need access to. The owner or admin of the requested repo or team will need to grant access. An admin will verify compliance and add you, after which you’ll need to accept their invitation.
 
 <h2 id="outside-collaborators">Outside Collaborators</h2>
@@ -102,14 +102,14 @@ In addition, outside collaborators will not be allowed admin access to a reposit
 Go to the GSA org people page. Click where it says **private** next to your name. Change that to **public**.
 
 **Each GSA user must**
-*	Activate 2-factor Authentication
-*	Add your information to your account
-*	Make your membership public
+* Activate 2-factor Authentication
+* Add your information to your account
+* Make your membership public
 
 <h2 id="each-repository-should">Each repository should</h2>
-*	Have a simple and useful name
-*	Have a user-friendly description
-*	Have a useful README.md
+* Have a simple and useful name
+* Have a user-friendly description
+* Have a useful README.md
 
 The 18F Team has published a helpful [style guide](https://pages.18f.gov/open-source-guide/making-readmes-readable/) that can be referenced as guidance for describing and documenting repositories.
 
@@ -122,19 +122,19 @@ Since GSA is following its own Open Sources policy, by default, projects in gitg
 <h2 id="creating-new-public-repositories">Creating new public repositories</h1>
 
 1. At https://github.com/gsa, Click '**+ New Repository'**. 
-2.	When choosing the repository's name, try to pick a simple and useful name
-3.	Include a brief description of the project. 
-4.	Change the repository status to **“Public”** unless it needs to be private. 
-5.	Note: we recommend the following when exposing your repositories to the public:
-a.	Conduct a manual code review with your team. Go line by line through the code and check for sensitive content.
-b.	Conduct static code analysis with a scanning tool (if available). SonarQube is approved as a standard. Teams can download it in their local environment and scan/remediate. Hopefully we can recommend other tools in the future. 
-c.	Utilize a process to remediate security vulnerabilities within the code base or the environment.
-d.	Make environmental variables private or store them on a server
-6.	At a minimum, repositories should have a **README** and **LICENSE** file providing instructions to future contributors on how to setup and test the application in order to make suggestions. It is encouraged to have **CONTRIBUTING** and **CODE_OF_CONDUCT** files. See https://github.com/gsa/code-gov-front-end for some examples.
-7.	You will usually not need to worry about adding a **“.gitignore”** unless you are going to store env variables or other dot file content. 
-8.	GSA’s Office of General Counsel has determined that all GSA code should be Creative Commons Zero (CC0). Work with your program office / legal counsel if you have any questions. See description of the license types.
-9.	Click **Create Repository**.
-10.	If prompted, choose the most appropriate team that you are a member of that should be given permission to the repo.
+2. When choosing the repository's name, try to pick a simple and useful name
+3. Include a brief description of the project. 
+4. Change the repository status to **“Public”** unless it needs to be private. 
+5. Note: we recommend the following when exposing your repositories to the public:
+a. Conduct a manual code review with your team. Go line by line through the code and check for sensitive content.
+b. Conduct static code analysis with a scanning tool (if available). SonarQube is approved as a standard. Teams can download it in their local environment and scan/remediate. Hopefully we can recommend other tools in the future. 
+c. Utilize a process to remediate security vulnerabilities within the code base or the environment.
+d. Make environmental variables private or store them on a server
+6. At a minimum, repositories should have a **README** and **LICENSE** file providing instructions to future contributors on how to setup and test the application in order to make suggestions. It is encouraged to have **CONTRIBUTING** and **CODE_OF_CONDUCT** files. See https://github.com/gsa/code-gov-front-end for some examples.
+7. You will usually not need to worry about adding a **“.gitignore”** unless you are going to store env variables or other dot file content. 
+8. GSA’s Office of General Counsel has determined that all GSA code should be Creative Commons Zero (CC0). Work with your program office / legal counsel if you have any questions. See description of the license types.
+9. Click **Create Repository**.
+10. If prompted, choose the most appropriate team that you are a member of that should be given permission to the repo.
 
 <h2 id="creating-new-private-repositories">Creating new private repositories</h2>
 
@@ -146,10 +146,10 @@ It is recommended to create teams to manage member’s access to a repository.  
 
 <h2 id="removing-access-to-the-gsa-organization">Removing access to the GSA organization</h2>
 
-*	Team managers should ensure that they monitor when a member of their GitHub team leaves the project or agency and no longer needs access to the GSA organization.  
-*	At that point, they should email 'gsa-github.support@gsa.gov' with a request to remove the user from the GSA organization.
-*	Organization admins should reply to the email with confirmation when the removal is complete. 
-*	Team managers may delegate this responsibility but need to ensure that it is in place. 
+* Team managers should ensure that they monitor when a member of their GitHub team leaves the project or agency and no longer needs access to the GSA organization.  
+* At that point, they should email 'gsa-github.support@gsa.gov' with a request to remove the user from the GSA organization.
+* Organization admins should reply to the email with confirmation when the removal is complete. 
+* Team managers may delegate this responsibility but need to ensure that it is in place. 
 **If a member leaves GitHub who is the sole owner of the repository,  and the repository is not archived or transferred to someone else, it will be deleted.**
  
 <h2 id="reviewing-the-system-log">Reviewing the system log</h2>
@@ -161,11 +161,11 @@ If you would like to have third-party access applications use GitHub, first you 
 
 <h2 id="organizing-agency-users">Organizing Agency Users</h2>
 
-*	Identify Team Leads.
-*	Ensure everyone has guidance going forward.
-*	Repo owners should certify users to their own repos.  
-*	It is recommended to make use of teams for better organization.  The repo admin should create a team with admin access for the repository, a team with read-only access, and a team for read/write access. They should then delegate a “team maintainer” for adding or removing members from the team.
-*	Users will need to reply to the annual account recertification. If a user does not reply their account will be disabled.
+* Identify Team Leads.
+* Ensure everyone has guidance going forward.
+* Repo owners should certify users to their own repos.  
+* It is recommended to make use of teams for better organization.  The repo admin should create a team with admin access for the repository, a team with read-only access, and a team for read/write access. They should then delegate a “team maintainer” for adding or removing members from the team.
+* Users will need to reply to the annual account recertification. If a user does not reply their account will be disabled.
 
 
 
