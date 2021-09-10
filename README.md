@@ -69,7 +69,7 @@ Include the following:
 
 <h2 id="set-up-two-factor-authentication">Set up two-factor authentication</h2>
 
-Two-factor authentication is required for all members and collaborators in the GSA org. You can choose among multiple options to add a second source of authentication to your account. You can configure two-factor authentication using a mobile app or via text message. You can also add a security key. See: [Configuring two-factor authentication](https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication).
+Two-factor authentication is required for all members and collaborators in the GSA org. You can choose among multiple options to add a second source of authentication to your account. You can configure two-factor authentication [using a mobile app](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication#configuring-two-factor-authentication-using-a-totp-mobile-app), [via text message](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication#configuring-two-factor-authentication-using-text-messages)(not recommended), or [using a security key](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication#configuring-two-factor-authentication-using-a-security-key).
 
 <h2 id="turning-on-notifications">Turning on notifications</h2>
 
