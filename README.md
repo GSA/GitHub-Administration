@@ -111,7 +111,8 @@ Go to the GSA org people page. Click where it says **private** next to your name
 * Add your information to your account
 * Make your membership public
 
-<h2 id="each-repository-should">Each repository should</h2>
+<h2 id="each-repository-should">Each repository should</h2>  
+
 * Have a simple and useful name
 * Have a user-friendly description
 * Have a useful README.md
@@ -158,7 +159,8 @@ It is recommended to create teams to manage member’s access to a repository.  
 **If a member leaves GitHub who is the sole owner of the repository,  and the repository is not archived or transferred to someone else, it will be deleted.**
  
 <h2 id="reviewing-the-system-log">Reviewing the system log</h2>
-  Users are respomnsible for reviewing their log file and reporting any unusual activity to the github admins. You can find guidance on accessing your security log at:  https://docs.github.com/en/github/authenticating-to-github/reviewing-your-security-log. Report any any usual activity to `gsa-github.support@gsa.gov`
+
+Users are responsible for reviewing their log file and reporting any unusual activity to the github admins. You can find guidance on accessing your security log at:  https://docs.github.com/en/github/authenticating-to-github/reviewing-your-security-log. Report any any usual activity to gsa-github.support@gsa.gov.
   
 <h2 id="third-party-access">Third-party access</h2>
 
