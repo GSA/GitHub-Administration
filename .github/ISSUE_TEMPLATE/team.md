@@ -1,7 +1,7 @@
 ---
 name: gsa-system
-escription: Github Team Request
-title: [system]() - [github-team]()
+description: Github Team Request
+title: team
 labels: "g: accepted, i: github-team"
 assignees: "@tts-admins"
 labels: ["bug", "triage"]
@@ -76,7 +76,7 @@ body:
         - GSA Implementation of Genesys
         - GSA Implementation of Zendesk
         - Identity Verification API (IDVA)
-        - lnteragency Suspension and Debarment Committee (ISDC)
+        - interagency Suspension and Debarment Committee (ISDC)
         - Made in America (MiAO)
         - Search.gov
         - Site Scanner
@@ -107,5 +107,4 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true          
-```
 ---
